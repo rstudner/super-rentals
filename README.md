@@ -41,7 +41,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+Specify what it takes to deploy your app. Foo.
 
 ## Further Reading / Useful Links
 
